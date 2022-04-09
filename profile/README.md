@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+### 創造工学VRチームのOrganizationです。
+### メンバー
+- 松田
+- 近藤
+- 富永
+- 山際
 <!--
 
 **Here are some ideas to get you started:**
