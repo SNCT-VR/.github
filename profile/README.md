@@ -6,9 +6,14 @@
 
 
 ## メンバー
-|GitHub Account|url|
-|---|---|
-|Sansai-snct|https://github.com/Sansai-snct|
+|GitHub Account| 役割 | url|
+|---|---| --- |
+|Sansai-snct|技術顧問(笑),ホームページ|https://github.com/Sansai-snct | 
+|tommy31i|ハードウェア, 回路|https://github.com/tommy31i | 
+|akanezz|フルスタック|https://github.com/akanezz | 
+|nakimikan|ゲーム制作|https://github.com/nakimikan | 
+
+
 <!--
 
 **Here are some ideas to get you started:**
