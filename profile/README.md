@@ -6,9 +6,11 @@
 
 
 ## メンバー
-|GitHub Account|url|
-|---|---|
-|Sansai-snct|https://github.com/Sansai-snct|
+|GitHub Account| 役割 | url|
+|---|---| --- |
+|Sansai-snct|見守り,ホームページ|https://github.com/Sansai-snct | 
+
+
 <!--
 
 **Here are some ideas to get you started:**
