@@ -3,6 +3,10 @@
 ## リポジトリ一覧
 |リポジトリ名|概要|url|
 |---|---|---|
+|MTG|日々の議事録だったり雑多なものを置く| https://github.com/SNCT-VR/MTG|
+|mainArduino|マイコン周りのリポジトリ|https://github.com/SNCT-VR/mainArduino|
+
+
 
 
 ## メンバー
