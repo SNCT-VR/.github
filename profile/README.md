@@ -1,11 +1,11 @@
 # Hi there 👋  創造工学VRチームのOrganizationです。
 
-## リポジトリ一覧 (Prはプライベート)
+## リポジトリ一覧 
 |リポジトリ名|概要|url|
 |---|---|---|
-|MTG (Pr)|日々の議事録だったり雑多なものを置く| https://github.com/SNCT-VR/MTG|
+|MTG|日々の議事録だったり雑多なものを置く| https://github.com/SNCT-VR/MTG|
 |mainArduino|マイコン周りのリポジトリ|https://github.com/SNCT-VR/mainArduino|
-|document (Pr)|各種提出書類フォルダ|https://github.com/SNCT-VR/document|
+|document|各種提出書類フォルダ|https://github.com/SNCT-VR/document|
 
 
 
