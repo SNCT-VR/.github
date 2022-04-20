@@ -3,9 +3,10 @@
 ## リポジトリ一覧 (Prはプライベート)
 |リポジトリ名|概要|url|
 |---|---|---|
-|MTG (Pr)|日々の議事録だったり雑多なものを置く| https://github.com/SNCT-VR/MTG|
+|VR-hp|作品紹介ホームページのリポジトリ|https://github.com/SNCT-VR/VR-hp|
 |mainArduino|マイコン周りのリポジトリ|https://github.com/SNCT-VR/mainArduino|
 |document (Pr)|各種提出書類フォルダ|https://github.com/SNCT-VR/document|
+|MTG (Pr)|日々の議事録だったり雑多なものを置く| https://github.com/SNCT-VR/MTG|
 
 
 
