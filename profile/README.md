@@ -3,7 +3,7 @@
 ## リポジトリ一覧 
 |リポジトリ名|概要|url|
 |---|---|---|
-|VR-hp|作品紹介ホームページのリポジトリ|https://github.com/SNCT-VR/VR-hp|
+|Beettles-hp|作品紹介ホームページのリポジトリ|https://github.com/SNCT-VR/Beettles-hp|
 |mainArduino|マイコン周りのリポジトリ|https://github.com/SNCT-VR/mainArduino|
 
 
